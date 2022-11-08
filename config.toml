@@ -36,7 +36,8 @@ home = ["HTML", "RSS", "Algolia"]
   # Sidebar settings
   sidebar_about_description = "Avukat/Lawyer"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/avatar-ozgeay.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar1 = "img/ozge-pp.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar2 = "img/emine-pp.jpeg"
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -64,7 +65,7 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
-  [params.social]
+  [params.social1]
   rss            = true 
   email          = "ozgeozdemir57@gmail.com"
   #facebook      = "full profile url in facebook"
@@ -84,6 +85,27 @@ home = ["HTML", "RSS", "Algolia"]
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
+
+  [params.social2]
+    rss            = true
+    email          = "ozgeozdemir57@gmail.com"
+    #facebook      = "full profile url in facebook"
+    #googleplus    = "full profile url in googleplus"
+    #twitter       = "full profile url in twitter"
+    linkedin       = "https://www.linkedin.com/in/%C3%B6zge-ay-779291204/"
+    #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+    #instagram     = "full profile url in instagram"
+    #github         = "https://github.com/yourgithub"
+    #wechat         = "your wechat qr code image"
+    medium        = "https://medium.com/@ozgeay"
+    #slack         = "full workspace url in slack"
+    #pinterest     = "full profile url in pinterest"
+    #reddit        = "full profile url in reddit"
+    #gitlab        = "full profile url in gitlab"
+    #mastodon      = "full profile url in mastodon"
+    #keybase       = "full profile url in keybase"
+    #xing          = "https://www.xing.com/profile/yourxingid"
+    #git           = "full profile url for git user"
   
 
 
