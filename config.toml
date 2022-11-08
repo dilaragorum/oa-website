@@ -88,16 +88,16 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social2]
     rss            = true
-    email          = "ozgeozdemir57@gmail.com"
+    email          = "emineguldu@outlook.com"
     #facebook      = "full profile url in facebook"
     #googleplus    = "full profile url in googleplus"
     #twitter       = "full profile url in twitter"
-    linkedin       = "https://www.linkedin.com/in/%C3%B6zge-ay-779291204/"
+    linkedin       = "https://www.linkedin.com/in/s%C3%BCmeyya-emine-g%C3%BCld%C3%BC-a0028a255/"
     #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
     #instagram     = "full profile url in instagram"
     #github         = "https://github.com/yourgithub"
     #wechat         = "your wechat qr code image"
-    medium        = "https://medium.com/@ozgeay"
+    #medium        = "https://medium.com/@ozgeay"
     #slack         = "full workspace url in slack"
     #pinterest     = "full profile url in pinterest"
     #reddit        = "full profile url in reddit"
