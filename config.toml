@@ -131,6 +131,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "HAKKIMIZDA"
   href =  "about/"
+  [[params.addtional_menus]]
+  title =  "İLETİŞİM"
+  href =  "contact/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
