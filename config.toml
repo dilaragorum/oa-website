@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "Ozge Ay ve Emine Güldü"
   description = "Eva Avukatlık ve Danışmanlık Web Sitesi"
   keyword = "Özge Ay, Ozge Ay , Sümeyya Emine Güldü, Sumeyya Emine Güldü, Blog, Danışmanlık, Hukuk"
-  slogan = ""
+  slogan = "Slogan"
   image_404 = "img/404-bg.jpg"
   omit_categories = false
 
