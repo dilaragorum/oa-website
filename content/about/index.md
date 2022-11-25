@@ -7,7 +7,6 @@ layout: page
 
 İdealist, genç ve dinamik kadrosu ile meslek etik kuralları ve ilkelerine riayet etmeye; değişen mevzuat ve gündeme bağlı kalarak disiplinli çalışmaya; dürüstlük ve gizlilik prensibine önem veren büromuz, müvekkillerini öncelikli olarak alternatif hukuki uyuşmazlık çözüm yollarına teşvik ederek müvekkillerine en hızlı ve en az masraflı çözümü sunmaktadır. Ayrıca büromuz, tüm hukuki aşamalarda müvekkillerin bilgilendirilmesi ve dava sürecine dair merak edilenlerin paylaşılmasında müvekkilerine erişim kolaylığı sağlamaktadır.
 
-
 ## Ekibimiz
 
 **_AVUKAT ÖZGE AY_**

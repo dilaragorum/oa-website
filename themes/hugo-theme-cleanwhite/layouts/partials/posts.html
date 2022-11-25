@@ -9,8 +9,12 @@
             col-xs-12
             post-container
         ">
-            {{ partial "post_list.html" . }}
-            {{ partial "pagination.html" . }}
+            {{ range $index, $element := $.Paginator.Pages }}
+                {{ .Content }}
+            {{ end }}
+
+            <!--{{ partial "post_list.html" . }}
+            {{ partial "pagination.html" . }}-->
        	</div>
         {{ partial "sidebar.html" . }}
 	</div>
