@@ -40,6 +40,8 @@ Avukat Sümeyya Emine Güldü, 2017 yılında Ukrayna Bölgelerarası Personel Y
     </style>
 {{< /rawhtml >}}
 
+[Faaliyet alanlarımızı görüntülemek için tıklayınız](activity/).
+
 ## İletişim
 
 #### Telefon
@@ -51,5 +53,10 @@ Avukat Sümeyya Emine Güldü, 2017 yılında Ukrayna Bölgelerarası Personel Y
 #### Adres
 
 {{< rawhtml >}}
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d856.2945506957111!2d36.34419127904546!3d41.27804275724465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408876316f97be79%3A0x28284eb02fdff17f!2zS8SxbMSxw6dkZWRlLCDEsHptaXQgU2suLCA1NTA2MCDEsGxrYWTEsW0vU2Ftc3Vu!5e0!3m2!1str!2str!4v1669407585222!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d856.2945506957111!2d36.34419127904546!3d41.27804275724465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408876316f97be79%3A0x28284eb02fdff17f!2zS8SxbMSxw6dkZWRlLCDEsHptaXQgU2suLCA1NTA2MCDEsGxrYWTEsW0vU2Ftc3Vu!5e0!3m2!1str!2str!4v1669407585222!5m2!1str!2str" 
+            width="100%" height="100%" 
+            style="border:0;" allowfullscreen="" 
+            loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{< /rawhtml >}}
