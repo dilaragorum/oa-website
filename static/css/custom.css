@@ -1,0 +1,22 @@
+.intro-header {
+    background-color: #B1B1B1;
+    background-size: cover;
+    background-blend-mode: color-burn;
+    background-position-y: 0;
+}
+
+@media only screen and (min-width:2000px){
+    .intro-header{
+        background-size: contain;
+    }
+}
+
+.site-heading h1 {
+    font-size: 50px !important;
+}
+
+@media only screen and (max-width:768px){
+    .site-heading h1{
+        font-size: 30px !important;
+    }
+}

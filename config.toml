@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/justice.jpg"
+  header_image = "img/justice-new.jpg"
   SEOTitle = "Ozge Ay ve Emine Güldü"
   description = "Eva Avukatlık ve Danışmanlık Web Sitesi"
   keyword = "Özge Ay, Ozge Ay , Sümeyya Emine Güldü, Sumeyya Emine Güldü, Blog, Danışmanlık, Hukuk"
@@ -62,6 +62,7 @@ home = ["HTML", "RSS", "Algolia"]
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
+  custom_css=["css/custom.css"]
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
